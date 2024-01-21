@@ -9,6 +9,9 @@ module.exports = function (eleventyConfig) {
     // favicon
     eleventyConfig.addPassthroughCopy('assets/favicon.jpg');
 
+    // [WebApp] Bookmarks
+    eleventyConfig.addPassthroughCopy('contents/bookmarks');
+
     //  Markdown Config
     const markdownIt = require('markdown-it')
     const markdownItAttrs = require('markdown-it-attrs')

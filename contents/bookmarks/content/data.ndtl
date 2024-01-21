@@ -1,0 +1,407 @@
+var DATABASE = `
+O2P ORBIUM PHANTASMA
+  DATE : 2023-01-09
+  AUTH : Bert Chan
+  TAGS : particle lenia, cellular automata
+  TYPE : image
+  FILE : 2023-01-09_O2p-Orbium_Phantasma.png
+  LINK : https://www.youtube.com/watch?v=ij1k2pxdQNU
+  WIDE : true
+
+20 YEARS OF PROGRAMMING
+  LINK : https://flooey.org/twentyyearsofprogramming.html
+  TYPE : article
+  TAGS : code
+
+HOW TO BUILD TOXIC SOFTWARE TEAMS
+  LINK : https://badsoftwareadvice.substack.com/p/how-to-build-toxic-software-teams
+  TYPE : article
+  TAGS : code
+
+HOW I DISCOVERED THE UNDERGOUND OF CREDIT CARD NETWORK EXPLOITATION
+  LINK : https://chargebackstop.com/blog/card-networks-exploitation/
+  TYPE : article
+  TAGS : security, exploitation
+
+STOPPING AT 90%
+  LINK : https://austinhenley.com/blog/90percent.html
+  TYPE : article
+  TAGS : code
+
+DO SOMETHING, SO WE CAN CHANGE IT!
+  LINK : https://allenpike.com/2023/do-something-so-we-can-change-it
+  TYPE : article
+  TAGS : general
+
+PYTHAGORAS IMPLEMENTATION IN HASKELL 
+  DATE : 2023-11-25
+  AUTH : Veronika Romashkina
+  TAGS : math, code
+  TYPE : image
+  FILE : 2023-11-25_pythagoras_haskell.png
+  LINK : https://github.com/kowainik/learn4haskell/blob/cfc69fa36399c44a6885f3981a18f0fae4e51caf/src/Chapter1.hs#L608
+  WIDE : true
+
+REMOTE WORK REQUIRES COMMUNICATING MORE, LESS FREQUENTLY
+  LINK : https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/
+  TYPE : article
+  TAGS : code
+
+THROW AWAY YOUR FIRST DRAFT OF YOUR CODE
+  LINK : https://ntietz.com/blog/throw-away-your-first-draft/
+  TYPE : article
+  TAGS : code
+
+THE WAY OUT OF BURNOUT
+  LINK : https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout
+  TYPE : article
+  TAGS : general, work
+  NOTE
+    > A psychoanalyst explains why for people feeling “burnt out”, simply trying to relax doesn’t always work
+
+HOW TO WRITING IN PUBLIC
+  LINK : https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/
+  TYPE : article
+  TAGS : writing, code
+  NOTE
+    > Julia Evans share about some tactics for writing in public
+
+WRITE YOUR PASSWORD DOWN
+  LINK : https://blog.jgc.org/2010/12/write-your-passwords-down.html?m=1
+  TYPE : article
+  TAGS : privacy
+  NOTE
+    > Some advices on password security based on the collected opinions of others
+
+FANTASTIC LEARNING RESOURCES
+  LINK : https://matklad.github.io/2023/08/06/fantastic-learning-resources.html
+  TYPE : article
+  TAGS : code
+
+EXPLORING LINUX V0.01 INTERNALS
+  LINK : https://seiya.me/blog/reading-linux-v0.01
+  TYPE : article
+  TAGS : linux
+
+WRITE ABOUT WHAT YOU LEARN
+  LINK : https://addyosmani.com/blog/write-learn/
+  TYPE : article
+  TAGS : writing
+
+FEDORA 35 WITH WHITESUR THEME
+  DATE : 2022-01-21
+  AUTH : indrdmr
+  TAGS : linux
+  TYPE : image
+  FILE : 2022-01-21_fedora35_whitesur.png
+
+INTRODUCTION TO KALMAN FILTERS
+  LINK : https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/
+  TYPE : article
+  TAGS : math, algorithm, code
+  NOTE
+    > A non-mathematical introduction for Programmers
+
+MAN SPENDS ENTIRE CAREER MASTERING CRAPPY CODEBASE
+  LINK : https://taylor.town/entire-career
+  TYPE : article
+  TAGS : code
+
+THE UNIX69 KEYBOARD LAYOUT
+  LINK : https://dotat.at/@/2023-08-04-unix69.html
+  TYPE : article
+  TAGS : hardware, unix
+
+LINUX GUIDE FOR POWERUSERS
+  LINK : https://xnacly.me/posts/2022/linux-for-powerusers/
+  TYPE : article
+  TAGS : linux
+
+COMPILER DEVELOPMENT: RUST OR OCAML?
+  LINK : https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html
+  TYPE : article
+  TAGS : code
+
+RAKU - A LANGUAGE OF GREMLINS
+  LINK : https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/
+  TYPE : article
+  TAGS : code
+
+BYE, GEMINI
+  LINK : https://www.makeworld.space/2023/08/bye_gemini.html
+  TYPE : article
+  TAGS : internet
+
+THINGS YOU FORGOT (OR NEVER KNEW) BECAUSE OF REACT
+  LINK : https://joshcollinsworth.com/blog/antiquated-react
+  TYPE : article
+  TAGS : code
+
+GOODBYE, CLEAN CODE
+  LINK : https://overreacted.io/goodbye-clean-code/
+  TYPE : article
+  TAGS : code
+
+COPYING, IS THE WAY DESIGN WORKS
+  LINK : https://matthewstrom.com/writing/copying/
+  TYPE : article
+  TAGS : visual
+
+HAPPY HUES
+  LINK : https://www.happyhues.co/
+  TYPE : tool
+  TAGS : visual
+  NOTE
+    > Happy Hues is a color palette inspiration site that act as a real world example as to how the colors could be used in your design projects.
+
+HOW TO DESIGN DELIGHTFUL DARK THEMES
+  LINK : https://blog.superhuman.com/how-to-design-delightful-dark-themes/
+  TYPE : article
+  TAGS : visual
+
+LEARN THE LOGIC OF GREAT TYPOGRAPHY
+  LINK : https://www.learnui.design/tools/typography-tutorial.html
+  TYPE : tool
+  TAGS : visual
+  NOTE
+    > An Interactive type tutorial
+
+OPINION: IDEAL PROGRAMMING LANGUAGE
+  LINK : https://avestura.dev/blog/ideal-programming-language
+  TYPE : article
+  TAGS : code
+  NOTE
+    > An opinion on what's a good general-purpose programming language
+
+1SUB
+  LINK : https://1sub.dev/
+  TYPE : tool
+  TAGS : code, web
+
+LEPRD WEB HOSTING
+  LINK : https://leprd.space/
+  TYPE : tool
+  TAGS : code, hosting
+  NOTE 
+    > Free cPanel web hosting for hobbyist
+
+STORY OF RETRY
+  LINK : https://blog.chib.me/story-of-retry/
+  TYPE : article
+  TAGS : code
+
+WHY YOUR BLOG STILL NEEDS RSS
+  LINK : https://journal.paoloamoroso.com/why-your-blog-still-needs-rss
+  TYPE : article
+  TAGS : internet, code
+
+TEXT FX (GOOGLE)
+  LINK : https://textfx.withgoogle.com/
+  TYPE : tool
+  TAGS : writing
+  NOTE
+    > TextFX is an AI experiment that uses Google's PaLM 2 large language model. These 10 tools are designed to expand the writing process by generating creative possibilities with text and language.
+
+PROGRAMMING ESSAYS
+  LINK : https://www.benkuhn.net/progessays/
+  TYPE : list
+  TAGS : code, writing
+  QOTE
+    > 'Essays on programming I think about a lot.'
+
+HOW TO ANSWER QUESTIONS IN A HELPFUL WAY
+  LINK : https://jvns.ca/blog/answer-questions-well/
+  TYPE : article
+  TAGS : general, code
+
+GRADIENT COLORS COLLECTION PALETTE
+  LINK : https://hexcolor.co/gradient-colors
+  TYPE : tool
+  TAGS : visual
+
+CLARITY IS AN UNDERRATED SKILL
+  LINK : https://tomgamon.com/posts/clarity/
+  TYPE : article
+  TAGS : writing, code
+
+IT'S PROBABLY TIME TO STOP RECOMMENDING CLEAN CODE
+  LINK : https://qntm.org/clean
+  TYPE : article
+  TAGS : code
+
+HOW TO WORK HARD
+  LINK : http://paulgraham.com/hwh.html
+  TYPE : article
+  TAGS : general
+
+THERE'S NEVER BEEN A BETTER TIME TO BUILD WEBSITES
+  LINK : https://www.simeongriggs.dev/there-has-never-been-a-better-time-to-build-websites
+  TYPE : article
+  TAGS : internet, code
+
+THERE’S NO SUCH THING AS CLEAN CODE
+  LINK : https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code
+  TYPE : article
+  TAGS : code
+
+WHAT IS THE SMALL WEB?
+  LINK : https://ar.al/2020/08/07/what-is-the-small-web/
+  TYPE : article
+  TAGS : internet
+
+AN INTERACTIVE GUIDE TO COLOR & CONTRAST
+  LINK : https://colorandcontrast.com/#/
+  TYPE : tool
+  TAGS : visual
+  NOTE
+    > A comprehensive guide for exploring and learning about the theory, science, and perception of color and contrast.
+
+GETTING A JOB AT APPLE WITHOUT GOING TO COLLEGE OR DOING LEETCODE
+  LINK : https://aheze.substack.com/p/getting-a-job-at-apple-without-going
+  TYPE : article
+  TAGS : code
+
+WRITING WELL, UNDERVALUED SOFTWARE ENGINEERING SKILLS
+  LINK : https://blog.pragmaticengineer.com/on-writing-well/
+  TYPE : article
+  TAGS : writing, code
+
+5 THINGS I’VE LEARNED IN 20 YEARS OF PROGRAMMING
+  LINK : https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/
+  TYPE : article
+  TAGS : code
+
+HOW TO MAKE YOUR CODE REVIEWER FALL IN LOVE WITH YOU
+  LINK : https://mtlynch.io/code-review-love/
+  TYPE : article
+  TAGS : code
+
+EVIL TIP: AVOID "EASY" THINGS
+  LINK : https://yosefk.com/blog/evil-tip-avoid-easy-things.html
+  TYPE : article
+  TAGS : general, code
+
+WHY I BUILT A DICTIONARY APP EVEN WITH MORE THAN +300 APPS AVAILABLE AT APPSTORE?
+  LINK : https://www.wordnote.app/blog/why-i-built-dictionary-app
+  TYPE : article
+  TAGS : code
+
+Database of Databases
+  LINK : https://dbdb.io/
+  TYPE : list
+  TAGS : website, code
+  NOTE
+    > Explore and Learn about 924+ Database Management Systems
+
+A HALF-HOUR TO LEARN RUST
+  LINK : https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+  TYPE : article
+  TAGS : code
+  QOTE
+    > In order to increase fluency in a programming language, one has to read a lot of it. But how can you read a lot of it if you don't know what it means?
+    > Instead of focusing on one or two concepts, I'll try to go through as many Rust snippets as I can, and explain what the keywords and symbols they contain mean.
+
+HOW TO DO GREAT WORK
+  LINK : http://paulgraham.com/greatwork.html
+  TYPE : article
+  TAGS : general
+
+THE SMALL WEB IS BEAUTIFUL
+  LINK : https://benhoyt.com/writings/the-small-web-is-beautiful/
+  TYPE : article
+  TAGS : internet
+
+GIVE UP GITHUB
+  LINK : https://sfconservancy.org/GiveUpGitHub/
+  TYPE : article
+  TAGS : code, privacy
+
+UNIX IS BOTH A TECHNOLOGY AND AN IDEA
+  LINK : https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea
+  TYPE : article
+  TAGS : unix
+
+WE’RE ALL JUST TEMPORARILY ABLED
+  LINK : https://blog.jim-nielsen.com/2023/temporarily-abled/
+  TYPE : article
+  TAGS : general
+
+LIFE HAS SEVERAL EXITS
+  LINK : https://lopespm.com/notes/2023/08/19/life_exits.html
+  TYPE : article
+  TAGS : general
+
+HOW TO FIND TIME TO LEARN AFTER WORK
+  LINK : https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/
+  TYPE : article
+  TAGS : general, code
+
+TINY WEBSITES ARE GREAT
+  LINK : https://tinyprojects.dev/posts/tiny_websites_are_great
+  TYPE : article
+  TAGS : internet
+
+REDISCOVERING THE SMALL WEB
+  LINK : https://neustadt.fr/essays/the-small-web/
+  TYPE : article
+  TAGS : internet
+
+FRUGAL COMPUTING
+  LINK : https://wimvanderbauwhede.codeberg.page/articles/frugal-computing/
+  TYPE : article
+  TAGS : internet, environment
+  NOTE : On the need for low-carbon and sustainable computing and the path towards zero-carbon computing.
+
+LEAVING GITHUB
+  LINK : https://ratfactor.com/leaving-github
+  TYPE : article
+  TAGS : code, internet 
+
+DON'T BE AFRAID TO BE WRONG
+  LINK : https://nlopes.dev/writing/dont-be-afraid-to-be-wrong
+  TYPE : article
+  TAGS : general
+
+LINEAR CODE IS MORE READABLE
+  LINK : https://blog.separateconcerns.com/2023-09-11-linear-code.html
+  TYPE : article
+  TAGS : code
+
+HOW I STAY REASONABLY ANONYMOUS ONLINE
+  LINK : https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/
+  TYPE : article
+  TAGS : internet
+
+THINGS I LEARNED FROM TEACHING
+  LINK : https://claytonwramsey.github.io/blog/learned-from-teaching.html/
+  TYPE : article
+  TAGS : general
+
+ADVENT OF TECHNICAL WRITING (BLOG SERIES)
+  LINK : https://jamesg.blog/category/advent-of-technical-writing/
+  TYPE : article
+  TAGS : writing
+  NOTE
+    > Sharing experience as a Technical Writer
+
+LIFE LESSONS FROM A 44 YEARS OLD
+  LINK : https://www.anniemacmanus.com//articles/life-lessons-from-a-44-year-old
+  TYPE : article
+  TAGS : general
+
+LITTLE LANGUAGES ARE THE FUTURE OF PROGRAMMING
+  LINK : https://chreke.com/little-languages.html
+  TYPE : article
+  TAGS : code
+
+WHAT'S SO GREAT ABOUT FUNCTIONAL PROGRAMMING ANYWAY?
+  LINK : https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/
+  TYPE : article
+  TAGS : code
+
+WHY YOU SHOULD STOP READING NEWS
+  LINK : https://fs.blog/stop-reading-news/
+  TYPE : article
+  TAGS : general
+
+`
