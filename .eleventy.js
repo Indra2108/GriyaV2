@@ -12,10 +12,11 @@ module.exports = function (eleventyConfig) {
     // [WebApp] Bookmarks
     eleventyConfig.addPassthroughCopy('contents/bookmarks');
 
-    //  Markdown Config
+    /*  ======== START Markdown Config ========= */
     const markdownIt = require('markdown-it')
-    const markdownItAttrs = require('markdown-it-attrs')
-    const markdownItBracketedSpans = require('markdown-it-bracketed-spans')
+
+    const markdownItAttrs = require('markdown-it-attrs') // PLUGIN
+    const markdownItBracketedSpans = require('markdown-it-bracketed-spans') // PLUGIN
 
     const markdownItOptions = {
         html: true,
@@ -26,7 +27,7 @@ module.exports = function (eleventyConfig) {
     const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs).use(markdownItBracketedSpans)
 
     eleventyConfig.setLibrary('md', markdownLib)
-    //  end Markdown Config
+    /*  ========== END Markdown Config =========== */
 
     return {
         dir: {
