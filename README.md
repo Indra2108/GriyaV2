@@ -1,6 +1,10 @@
 # griya.11ty
 
-## Motivation
+## Why did I shift from Hugo to 11ty (Eleventy) ?
+
+- After shifting from Hugo, I found that 11ty is extremely easy and costumizable. and the Documentation is pretty easy to understand as well.
+- Adding markdown plugin in 11ty is simple.
+- I finally can embed my webapp (bookmarks) to my static site with 11ty in ease.
 
 ## Development Status
 
