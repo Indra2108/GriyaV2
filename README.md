@@ -1,8 +1,17 @@
 # griya.11ty
 
-# Motivation
+## Motivation
 
-# Timeline
+## Development Status
+
+Main Pages
+
+- Homepage (DONE)
+- Project (DONE)
+- Misc (97%)
+- About Page (DONE)
+
+## Timeline
 
 - `2024`
   - `01/20` - Rewritting to 11ty (Eleventy). work in progress.
@@ -10,6 +19,6 @@
 - `2023`
   - `07/03` - Using raw HTML and CSS.
 
-# Additional Resources
+## Additional Resources
 
 - https://dev.to/giulia_chiola/add-html-classes-to-11ty-markdown-content-18ic
