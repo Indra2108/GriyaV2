@@ -75,7 +75,6 @@ tr:nth-child(even) {
 body {
     background-color: var(--primary-color);
     color: var(--secondary-color);
-    font-size: larger;
     max-width: 650px;
     margin: auto;
     line-height: 1.5;
