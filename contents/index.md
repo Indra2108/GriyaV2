@@ -1,5 +1,4 @@
 ---
-title: Welcome
 layout: pages
 ---
 

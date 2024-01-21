@@ -1,8 +1,9 @@
-{% include "partials/header.njk" %}
-{% include "partials/nav.njk" %}
+{% include "partials/blogheader.njk" %}
+{% include "partials/backnav.njk" %}
 
 <main>
     <h1><em>{{ title }}</em></h1>
+    
     {{ content | safe }}
 </main>
 

@@ -1,5 +1,4 @@
 ---
-title: Misc
 layout: pages
 ---
 

@@ -1,0 +1,18 @@
+{% include "partials/blogheader.njk" %}
+{% include "partials/backnav.njk" %}
+
+<main>
+    <h1><em>{{ title }}</em></h1>
+    {{ content | safe }}
+
+    <h2>#notes</h2>
+    {% for note in collections.notes %}
+        <ul>
+            <li>
+                <p>{{ note.data.date | postDate }} - <a class="notes-title" href="{{ note.url }}">{{ note.data.title }}</a></p>
+            </li>
+        </ul>
+    {% endfor %}
+</main>
+
+{% include "partials/footer.njk" %}
