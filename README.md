@@ -21,9 +21,9 @@ Other Pages
 
 - `2024`
   - `01/20` - Rewritting to 11ty (Eleventy). work in progress.
-  - `01/14` - Rewritting to Hugo. Unfinished.
+  - `01/14` - Rewritting to Hugo. Unfinished. [repo](https://github.com/Indra2108/griya.hugo).
 - `2023`
-  - `07/03` - Using raw HTML and CSS.
+  - `07/03` - Using raw HTML and CSS. [old repo](https://github.com/Indra2108/Griya).
 
 ## Additional Resources
 
