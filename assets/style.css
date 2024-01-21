@@ -1,0 +1,147 @@
+footer {
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+hr {
+    border-style: dashed;
+    color: #ddd;
+}
+
+/* code */
+pre {
+    border: 1px solid #ddd;
+    padding: 1em;
+    overflow-x: auto;
+}
+
+code {
+    background: #f9f9f9;
+}
+
+pre code {
+    background: none;
+}
+
+/* misc elements */
+img,
+iframe,
+video {
+    max-width: 100%;
+}
+
+main {
+    hyphens: auto;
+}
+
+blockquote {
+    background: #f9f9f9;
+    border-left: 5px solid #ccc;
+    padding: 3px 1em 3px;
+}
+
+table {
+    margin: auto;
+    border-top: 1px solid #666;
+    border-bottom: 1px solid #666;
+}
+
+table thead th {
+    border-bottom: 1px solid #ddd;
+}
+
+th,
+td {
+    padding: 5px;
+}
+
+thead,
+tfoot,
+tr:nth-child(even) {
+    background: #eee;
+}
+
+/* ===============MY CUSTOM CSS================= */
+
+:root {
+    --primary-color: #edeaea;
+    --secondary-color: #393b3f;
+    --link-color: #c83f42;
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    font-size: larger;
+    max-width: 650px;
+    margin: auto;
+    line-height: 1.5;
+}
+
+.ininav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding: 10px 0;
+    margin-top: 0;
+    list-style-type: none;
+}
+
+.ininav li a {
+    color: var(--secondary-color);
+    text-decoration: none;
+    border-width: 1px;
+    border-color: #ddd;
+    border-bottom-style: solid;
+}
+
+.ininav li a:hover {
+    border-color: var(--secondary-color);
+}
+
+#arab {
+    text-align: right;
+}
+
+main a,
+#contacts a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+main a:hover,
+#contacts a:hover {
+    color: var(--link-color);
+    text-decoration: none;
+    border-width: 1px;
+    border-color: var(--link-color);
+    border-bottom-style: solid;
+}
+
+p {
+    line-height: 1.6;
+}
+
+li {
+    line-height: 1.4;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+#contacts {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1em;
+    list-style-type: none;
+    padding: 0;
+}
+
+#contacts p {
+    margin: 0
+}
