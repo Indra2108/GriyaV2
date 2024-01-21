@@ -28,7 +28,17 @@ module.exports = function (eleventyConfig) {
     const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs).use(markdownItBracketedSpans)
 
     eleventyConfig.setLibrary('md', markdownLib)
-    /*  ========== END Markdown Config =========== */
+    /* ========== END Markdown Config =========== */
+
+    /* =========== START Luxon Config =========== */
+
+    const { DateTime } = require("luxon");
+
+    eleventyConfig.addFilter("postDate", (dateObj) => {
+        return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
+    });
+
+    /* ============ END Luxon Config ============ */
 
     return {
         dir: {
