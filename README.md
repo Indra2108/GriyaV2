@@ -8,13 +8,13 @@ Main Pages
 
 - Homepage (DONE)
 - Project (DONE)
-- Misc (97%)
+- Misc (DONE)
 - About Page (DONE)
 
 Other Pages
 
 - Writings
-- Bookmarks?
+- Bookmarks (DONE)
 - Links (DONE)
 
 ## Timeline
