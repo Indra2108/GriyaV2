@@ -11,6 +11,12 @@ Main Pages
 - Misc (97%)
 - About Page (DONE)
 
+Other Pages
+
+- Writings
+- Bookmarks?
+- Links (DONE)
+
 ## Timeline
 
 - `2024`
