@@ -5,7 +5,7 @@ layout: pages
 
 # السلام عليكم، اهلا وسهلا { #arab }
 
-Hi there! I'm Damar. I currently live in Yogyakarta, Indonesia. I'm studying at Pondok Teknologi majoring in Mobile Development. In my leisure, I occasionally do writing.
+Hi there! I'm Damar. I currently live in Yogyakarta, Indonesia. I'm studying at [Pondok Teknologi](https://pondokteknologi.com/) majoring in Mobile Development. In my leisure, I occasionally do writing.
 
 * [Email](mailto:indradamarjati21@gmail.com)
 * --
