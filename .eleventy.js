@@ -2,6 +2,7 @@ module.exports = function (eleventyConfig) {
 
     // stylesheets
     eleventyConfig.addPassthroughCopy('assets/style.css');
+    eleventyConfig.addPassthroughCopy('assets/blogstyle.css');
 
     // fonts
     eleventyConfig.addPassthroughCopy('assets/fonts.css');
