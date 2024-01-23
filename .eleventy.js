@@ -2,10 +2,11 @@ module.exports = function (eleventyConfig) {
 
     // stylesheets
     eleventyConfig.addPassthroughCopy('assets/style.css');
-    eleventyConfig.addPassthroughCopy('assets/blogstyle.css');
+    eleventyConfig.addPassthroughCopy('assets/tufte.css');
 
     // fonts
     eleventyConfig.addPassthroughCopy('assets/fonts.css');
+    eleventyConfig.addPassthroughCopy('assets/et-book/');
 
     // favicon
     eleventyConfig.addPassthroughCopy('assets/favicon.jpg');
@@ -18,6 +19,10 @@ module.exports = function (eleventyConfig) {
 
     const markdownItAttrs = require('markdown-it-attrs') // PLUGIN
     const markdownItBracketedSpans = require('markdown-it-bracketed-spans') // PLUGIN
+    const markdownItHeaderSections = require('markdown-it-header-sections') // PLUGIN
+
+    const tufteMarginnote = require('./md-tufte/marginnote') // Tufte Marginnote
+    const tufteSidenote = require('./md-tufte/sidenote') // Tufte Sidenote
 
     const markdownItOptions = {
         html: true,
@@ -25,7 +30,7 @@ module.exports = function (eleventyConfig) {
         linkify: true
     }
 
-    const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs).use(markdownItBracketedSpans)
+    const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs).use(markdownItBracketedSpans).use(markdownItHeaderSections).use(tufteMarginnote).use(tufteSidenote)
 
     eleventyConfig.setLibrary('md', markdownLib)
     /* ========== END Markdown Config =========== */

@@ -101,10 +101,6 @@ body {
     border-color: var(--secondary-color);
 }
 
-#arab {
-    text-align: right;
-}
-
 main a,
 #contacts a {
     color: var(--link-color);

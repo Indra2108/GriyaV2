@@ -1,0 +1,31 @@
+{% include "partials/notebook_header.njk" %}
+
+<body>
+    <article>
+        {{ content | safe }}
+
+        <section>
+            <h2>Life Notes</h2>
+            {% for note in collections.lifenotes %}
+                <ul>
+                    <li>
+                        <p>{{ note.data.date | postDate }} - <a class="notes-title" href="{{ note.url }}">{{ note.data.title }}</a></p>
+                    </li>
+                </ul>
+            {% endfor %}
+        </section>
+
+        <section>
+            <h2>Video Quick Notes</h2>
+            {% for note in collections.videonotes %}
+                <ul>
+                    <li>
+                        <p>{{ note.data.date | postDate }} - <a class="notes-title" href="{{ note.url }}">{{ note.data.title }}</a></p>
+                    </li>
+                </ul>
+            {% endfor %}
+        <section>
+    </article>
+</body>
+
+{% include "partials/notebook_footer.njk" %}
