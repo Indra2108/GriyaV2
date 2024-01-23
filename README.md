@@ -5,8 +5,11 @@
 - After shifting from Hugo, I found that 11ty is extremely easy and costumizable. and the Documentation is pretty easy to understand as well.
 - Adding markdown plugin in 11ty is simple.
 - I finally can embed my webapp (bookmarks) to my static site with 11ty in ease.
+- Contents management in 11ty is pretty convenient.
 
 ## Development Status
+
+STATUS: 100% DONE. next step is just creating good contents. 
 
 Main Pages
 
@@ -17,7 +20,7 @@ Main Pages
 
 Other Pages
 
-- Writings
+- Writings (DONE)
 - Bookmarks (DONE)
 - Links (DONE)
 
