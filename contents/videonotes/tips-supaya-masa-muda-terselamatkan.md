@@ -1,9 +1,9 @@
 ---
-title: Tips supaya masa muda terselamatkan (15-25 tahun)
+title: Upaya agar masa muda terselamatkan (15-25 tahun)
 date: 2024-01-19
 ---
 
-# Tips supaya masa muda terselamatkan (15-25 tahun)
+# Upaya agar masa muda terselamatkan (15-25 tahun)
 
 Quick notes ini kuambil dari video youtube channel [Gilang](https://www.youtube.com/watch?v=-1rimt9vAQo)^[Salah satu channel youtube favorit saya, membahas secara gamblang mengenai self development]. dicatat pada tanggal 19/01/2024 hari Jumat.
 
@@ -38,7 +38,7 @@ Quick notes ini kuambil dari video youtube channel [Gilang](https://www.youtube.
 
 - Tapi kalo kamu emang tau apa yang ingin dicari + tau manfaatnya, barulah boleh scrolling.
 
-- **TIPS**: Memandang internet sebagai saran hiburan malah menjadikan dirimu rentan kecanduan, apabila ini tidak dikontrol, malah jadi buang-buang waktu banget.
+- **TIPS**: Memandang internet sebagai sarana hiburan malah menjadikan dirimu rentan kecanduan, apabila ini tidak dikontrol, malah jadi buang-buang waktu banget.
 
 ## Baca, mikir, nulis (menit 4:49)
 ---

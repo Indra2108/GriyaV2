@@ -17,9 +17,9 @@ Quick notes ini kuambil dari video youtube channel [Gilang](https://www.youtube.
 
 - **Contoh**: "Kenapa Naruto Uzumaki ingin menjadi Hokage?" karena dia trauma waktu kecil dijauhi penduduk desa gara-gara Kyubi yang tersegel dalam dirinya. inilah "why" Naruto yang ngebuat ia maju, pantang mundur walaupun berat dan penuh derita mengejar cita-citanya menjadi Hokage, karena dia pengin diakui penduduk desa, karena dia trauma betapa sakitnya kesepian sendirian.
 
-- Alasan kenapa kamu gak jadi-jadi untuk langsung beraksi, itu karena kamu belum mengalami kejadian "monumental" yang menusuk hati, sehingga dari situ punya tekad kuat buat berubah itu muncul.
+- Alasan kenapa kamu males untuk take action itu karena kamu belum mengalami kejadian "monumental" yang menusuk hati, sehingga dari situ punya tekad kuat buat berubah itu muncul.
 
-- Kamu gemuk, terus ingin melamar perempuan, namun ditolak, dan dari penolakan tersebut muncullah "why", *trauma ditolak gara-gara gemuk*. dari situ kamu mulai memberanikan diri untuk meninggalkan makanan enak dan instant, karena kamu tau rasanya ditolak perempuan itu jauh lebih gak enak dibanding makan sayur mayur.
+- Kamu gemuk, terus ingin melamar perempuan, namun ditolak, dan dari penolakan tersebut muncullah "why" -- *trauma ditolak gara-gara gemuk*. dari situ kamu mulai memberanikan diri untuk meninggalkan makanan enak dan instant, karena kamu tau rasanya ditolak perempuan itu jauh lebih gak enak dibanding makan sayur mayur.
 
 - Tapi bukan berarti kita harus mengalami trauma dulu agar punya "why". kita bisa memperoleh "why" tanpa harus jatuh ke titik terendah dulu. mungkin dari kita suka baca, nonton film dokumenter, suka mengamati, lalu mendapatkan pencerahan dari sana.
 
