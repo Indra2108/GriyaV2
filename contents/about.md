@@ -25,9 +25,9 @@ And lastly, here's my [twitter](https://twitter.com/Indradamarj).
 
 ## Site
 
-I wrote this personal website using 11ty (eleventy), except for my bookmarks, which are based on Hamish's bookmarking tool that use JavaScript for manipulating DOM.
+I wrote this personal website entirely using [11ty (eleventy)](https://www.11ty.dev/), except for my [bookmarks](/bookmarks/), which are based on [Hamish's bookmarking tool](https://github.com/kormyen/memex) that uses JavaScript for manipulating DOM. for my [Notebook](/writing/), I use [TufteCSS](https://edwardtufte.github.io/tufte-css/).
 
-This site use two fonts, Amiri for arabic letter and Ysabeau for main text.
+This site use two fonts, Amiri for arabic letter and Ysabeau for main text. for [Notebook](/writing/), I use et-book font from TufteCSS.
 
 This personal website design is heavily-inspired by [Azlen Elza](https://azlen.me/) and [Anirudh Oppiliappan](https://icyphox.sh/).
 
