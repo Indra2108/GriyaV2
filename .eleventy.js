@@ -17,6 +17,9 @@ module.exports = function (eleventyConfig) {
     // [WebApp] Bookmarks
     eleventyConfig.addPassthroughCopy('contents/bookmarks');
 
+    // 404 Pages (from firebase hosting)
+    eleventyConfig.addPassthroughCopy('contents/404.html');
+
     /*  ======== START Markdown Config ========= */
     const markdownIt = require('markdown-it')
 
