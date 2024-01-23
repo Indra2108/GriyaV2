@@ -11,6 +11,9 @@ module.exports = function (eleventyConfig) {
     // favicon
     eleventyConfig.addPassthroughCopy('assets/favicon.jpg');
 
+    // images folder
+    eleventyConfig.addPassthroughCopy('assets/images/');
+
     // [WebApp] Bookmarks
     eleventyConfig.addPassthroughCopy('contents/bookmarks');
 
