@@ -6,24 +6,24 @@
 
         <section>
             <h2>Life Notes</h2>
-            {% for note in collections.lifenotes %}
                 <ul>
+                {% for note in collections.lifenotes %}
                     <li>
-                        <p>{{ note.data.date | postDate }} - <a class="notes-title" href="{{ note.url }}">{{ note.data.title }}</a></p>
+                        {{ note.data.date | postDate }} - <a class="notes-title" href="{{ note.url }}">{{ note.data.title }}</a>
                     </li>
+                {% endfor %}
                 </ul>
-            {% endfor %}
         </section>
 
         <section>
             <h2>Video Quick Notes</h2>
-            {% for note in collections.videonotes %}
                 <ul>
+                {% for note in collections.videonotes %}
                     <li>
-                        <p>{{ note.data.date | postDate }} - <a class="notes-title" href="{{ note.url }}">{{ note.data.title }}</a></p>
+                        {{ note.data.date | postDate }} - <a class="notes-title" href="{{ note.url }}">{{ note.data.title }}</a>
                     </li>
+                {% endfor %}
                 </ul>
-            {% endfor %}
         <section>
     </article>
 </body>
