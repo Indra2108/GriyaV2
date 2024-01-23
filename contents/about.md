@@ -25,7 +25,7 @@ And lastly, here's my [twitter](https://twitter.com/Indradamarj).
 
 ## Site
 
-I wrote this personal website using plain HTML & CSS, except for my bookmarks, which are based on Hamish's bookmarking tool that use JavaScript for manipulating DOM.
+I wrote this personal website using 11ty (eleventy), except for my bookmarks, which are based on Hamish's bookmarking tool that use JavaScript for manipulating DOM.
 
 This site use two fonts, Amiri for arabic letter and Ysabeau for main text.
 
@@ -33,4 +33,4 @@ This personal website design is heavily-inspired by [Azlen Elza](https://azlen.m
 
 This site is hosted by [Firebase Hosting](https://firebase.google.com/docs/hosting).
 
-The source of this site is [here](http://github.com/Indra2108/home).
+The source of this site is [here](http://github.com/Indra2108/GriyaV2).
