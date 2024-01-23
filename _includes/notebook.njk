@@ -9,7 +9,7 @@
                 <ul>
                 {% for note in collections.lifenotes %}
                     <li>
-                        {{ note.data.date | postDate }} - <a class="notes-title" href="{{ note.url }}">{{ note.data.title }}</a>
+                        {{ note.data.date | postDate }} - <a href="{{ note.url }}">{{ note.data.title }}</a>
                     </li>
                 {% endfor %}
                 </ul>
@@ -20,7 +20,7 @@
                 <ul>
                 {% for note in collections.videonotes %}
                     <li>
-                        {{ note.data.date | postDate }} - <a class="notes-title" href="{{ note.url }}">{{ note.data.title }}</a>
+                        {{ note.data.date | postDate }} - <a href="{{ note.url }}">{{ note.data.title }}</a>
                     </li>
                 {% endfor %}
                 </ul>
