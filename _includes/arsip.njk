@@ -1,0 +1,18 @@
+{% include "partials/notebook_header.njk" %}
+
+<body>
+    <article>
+        <section>
+            <h1>Arsip</h1>
+                <ul>
+                {% for note in collections.arsip %}
+                    <li>
+                        {{ note.data.date | postDate }} - <a href="{{ note.url }}">{{ note.data.title }}</a>
+                    </li>
+                {% endfor %}
+                </ul>
+        </section>
+    </article>
+</body>
+
+{% include "partials/notebook_footer.njk" %}
