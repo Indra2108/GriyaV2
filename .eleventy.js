@@ -1,18 +1,7 @@
 module.exports = function (eleventyConfig) {
 
-    // stylesheets
-    eleventyConfig.addPassthroughCopy('assets/style.css');
-    eleventyConfig.addPassthroughCopy('assets/tufte.css');
-
-    // fonts
-    eleventyConfig.addPassthroughCopy('assets/fonts.css');
-    eleventyConfig.addPassthroughCopy('assets/et-book/');
-
-    // favicon
-    eleventyConfig.addPassthroughCopy('assets/favicon.jpg');
-
-    // images folder
-    eleventyConfig.addPassthroughCopy('assets/images/');
+    // assets: it could be css, images, favicon, etc.
+    eleventyConfig.addPassthroughCopy('assets/');
 
     // [WebApp] Bookmarks
     eleventyConfig.addPassthroughCopy('contents/bookmarks');
