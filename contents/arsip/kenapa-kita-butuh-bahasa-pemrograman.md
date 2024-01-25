@@ -7,8 +7,6 @@ date: 2024-01-17
 
 `Published Date: {{ date | postDate }}`
 
-`Artikel ini tersedia juga di Medium`^[https://indradamarjati.medium.com/kenapa-kita-butuh-bahasa-pemrograman-e7d239ee30f1]
-
 Sebagian dari kita mungkin bertanya-tanya, kenapa kita butuh bahasa pemrograman? apa yang terjadi kalo gak ada bahasa pemrograman? apa urgensinya, kok harus ada bahasa pemrograman? oleh karena itu mari kita basah, eh bahas, cekibrot!
 
 Mari kita *flashback* ke jaman dahulu dimana komputer belum sekeren kayak sekarang, jauh sebelum ada yang kepikiran konsep yang namanya "bahasa pemrograman". mungkin beberapa tahun setelah Mas Alan^[[Alan Turing (wikipedia)](https://en.wikipedia.org/wiki/Alan_Turing)] memperkenalkan konsep Turing Machine^[[Turing Machine (wikipedia)](https://en.wikipedia.org/wiki/Turing_machine)] yang digadang-gadang menjadi cikal bakal Komputer Modern seperti saat ini.
