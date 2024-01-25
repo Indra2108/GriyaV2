@@ -24,6 +24,6 @@ Dengan SSG, alih-alih kita menulis HTML secara manual disetiap halaman yang kita
 
 Gimana? sampai sini sudah ada gambaran? aku yakin pasti sebagian dari teman-teman belum dapet gambarannya karena kita melewatkan satu hal, apa itu? yak betul! PRAKTEK!
 
-Di tulisanku yang selanjutnya, kita akan akan coba bikin blog tipis-tipis pakai SSG. penasaran? saya juga, h3h3.
+Di tulisanku yang selanjutnya, kita akan akan coba bikin halaman statis tipis-tipis pakai SSG. penasaran? saya juga, h3h3.
 
 Oke gitu dulu aja ya pembahasan kali ini, terima kasih banyak buat temen-temen yang udah mampir kesini.
