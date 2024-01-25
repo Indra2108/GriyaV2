@@ -1,0 +1,5 @@
+---
+layout: arsip
+eleventyExcludeFromCollections: true
+---
+
