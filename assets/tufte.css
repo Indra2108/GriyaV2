@@ -484,3 +484,9 @@ label.margin-toggle:not(.sidenote-number) {
         width: 100%;
     }
 }
+
+/* Custom CSS */
+
+p.byline {
+    font-size: 1.2rem;
+}

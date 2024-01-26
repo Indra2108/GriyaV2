@@ -5,7 +5,7 @@ date: 2023-06-21
 
 # Awal Aku Suka Menulis
 
-`Published Date: {{ date | postDate }}`
+Published Date: {{ date | postDate }} { .byline }
 
 Berawal dari kegemaranku menjelajahi internet, dari sanalah aku menemukan banyak situs pribadi yang memuat tulisan-tulisan indah, entah itu catatan harian mereka atau dokumentasi dari apa yang sudah mereka pelajari.
 

@@ -5,7 +5,7 @@ date: 2024-01-17
 
 # Kenapa kita butuh Bahasa Pemrograman?
 
-`Published Date: {{ date | postDate }}`
+Published Date: {{ date | postDate }} { .byline }
 
 Sebagian dari kita mungkin bertanya-tanya, kenapa kita butuh bahasa pemrograman? apa yang terjadi kalo gak ada bahasa pemrograman? apa urgensinya, kok harus ada bahasa pemrograman? oleh karena itu mari kita basah, eh bahas, cekibrot!
 

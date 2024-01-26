@@ -5,7 +5,7 @@ date: 2024-01-25
 
 # Membuat halaman statis dengan SSG
 
-`Published Date: {{ date | postDate }}`
+Published Date: {{ date | postDate }} { .byline }
 
 Setelah kita udah berkenalan sedikit-sedikit tentang SSG^[bisa dibaca disini ya: https://indrdmr.online/arsip/perkenalan-static-site-generator/], sesuai janjiku pada tulisanku sebelumnya, kita akan coba praktek bikin halaman statis sederhana pakai SSG, yang mana tujuanku adalah untuk memperkuat pemahaman teman-teman tentang SSG, okay let's gooo!
 

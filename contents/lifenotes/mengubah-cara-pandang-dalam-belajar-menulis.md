@@ -5,7 +5,7 @@ date: 2023-12-26
 
 # Mengubah cara pandang dalam belajar menulis.
 
-`Published Date: {{ date | postDate }}`
+Published Date: {{ date | postDate }} { .byline }
 
 > *The More You Read, The More You Write.*
 

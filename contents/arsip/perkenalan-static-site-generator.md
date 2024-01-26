@@ -5,7 +5,7 @@ date: 2024-01-25
 
 # Perkenalan Static Site Generator
 
-`Published Date: {{ date | postDate }}`
+Published Date: {{ date | postDate }} { .byline }
 
 Ada buuaaanyak banget cara kita dalam membuat sebuah website, bisa dengan cara menulis website secara manual (pakai HTML dan CSS murni/mentah), bisa pakai CMS (Wordpress dan Blogspot), bisa pakai Framework (Next.js, Laravel) daaan masih banyak lagi yang lainnya. walaupun demikian, ada lhoo satu cara yang bisa kita tempuh dalam membuat website, yaitu pakai Static Site Generator!
 

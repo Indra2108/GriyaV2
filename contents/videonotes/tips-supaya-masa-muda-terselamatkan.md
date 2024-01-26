@@ -5,7 +5,7 @@ date: 2024-01-19
 
 # Upaya agar masa muda terselamatkan (15-25 tahun)
 
-Quick notes ini kuambil dari video youtube channel [Gilang](https://www.youtube.com/watch?v=-1rimt9vAQo)^[Salah satu channel youtube favorit saya, membahas secara gamblang mengenai self development]. dicatat pada tanggal 19/01/2024 hari Jumat.
+Quick notes ini kuambil dari video youtube channel [Gilang](https://www.youtube.com/watch?v=-1rimt9vAQo)^[Salah satu channel youtube favorit saya, membahas secara gamblang mengenai self development]. dicatat pada tanggal 19/01/2024 hari Jumat. { .byline }
 
 ## Hindari pornografi bagaimanapun caranya (menit 1:19)
 ---

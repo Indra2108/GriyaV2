@@ -5,7 +5,7 @@ date: 2024-01-20
 
 # Kamu malas karena gak punya "Why"
 
-Quick notes ini kuambil dari video youtube channel [Gilang](https://www.youtube.com/watch?v=3HvZknsgyhM). dicatat pada tanggal 20/01/2024 hari Sabtu.
+Quick notes ini kuambil dari video youtube channel [Gilang](https://www.youtube.com/watch?v=3HvZknsgyhM). dicatat pada tanggal 20/01/2024 hari Sabtu. { .byline }
 
 - Penyebab Malas karena tidak punya alasan yang kuat, yang urgent, yang menyentuh hati, yang membuat jiwamu bergetar.
 
