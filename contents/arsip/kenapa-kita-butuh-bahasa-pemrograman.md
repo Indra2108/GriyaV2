@@ -64,4 +64,4 @@ Setelah kita tahu bahwa adanya Bahasa Pemrograman itu untuk memudahkan programme
 
 > *"Lah terus kode yang udah dibuat dengan pendekatan pseudo-code tadi buat apaan bang?"*
 
-Oke pertanyaan bagus, jadi kode tadi nantinya akan melewati proses yang dinamakan *compile*+[Jadi intinya semua code yang sudah kita tulis ujung-ujungnya bakal balik lagi jadi kode biner (angka 0 dan 1).], yang mana proses tersebut akan menjadikan kode yang sudah kita tulis berubah menjadi bahasa mesin (kumpulan angka-angka biner) yang nantinya akan dijalankan langsung oleh komputer.
+Oke pertanyaan bagus, jadi kode tadi nantinya akan melewati proses yang dinamakan *compile*, yang mana proses tersebut akan menjadikan kode yang sudah kita tulis berubah menjadi bahasa mesin (kumpulan angka-angka biner) yang nantinya akan dijalankan langsung oleh komputer.
