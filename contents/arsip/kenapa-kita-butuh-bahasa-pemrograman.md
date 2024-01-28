@@ -5,17 +5,17 @@ date: 2024-01-17
 
 # Kenapa kita butuh Bahasa Pemrograman?
 
-Published Date: {{ date | postDate }} { .byline }
+*Published Date: {{ date | postDate }}* { .byline }
 
 Sebagian dari kita mungkin bertanya-tanya, kenapa kita butuh bahasa pemrograman? apa yang terjadi kalo gak ada bahasa pemrograman? apa urgensinya, kok harus ada bahasa pemrograman? oleh karena itu mari kita basah, eh bahas, cekibrot!
 
-Mari kita *flashback* ke jaman dahulu dimana komputer belum sekeren kayak sekarang, jauh sebelum ada yang kepikiran konsep yang namanya "bahasa pemrograman". mungkin beberapa tahun setelah Mas Alan^[[Alan Turing (wikipedia)](https://en.wikipedia.org/wiki/Alan_Turing)] memperkenalkan konsep Turing Machine^[[Turing Machine (wikipedia)](https://en.wikipedia.org/wiki/Turing_machine)] yang digadang-gadang menjadi cikal bakal Komputer Modern seperti saat ini.
+Mari kita *flashback* ke jaman dahulu dimana komputer belum sekeren kayak sekarang, jauh sebelum ada yang kepikiran konsep yang namanya "bahasa pemrograman". mungkin beberapa tahun setelah Mas [Alan](https://en.wikipedia.org/wiki/Alan_Turing) memperkenalkan konsep [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) yang digadang-gadang menjadi cikal bakal Komputer Modern seperti saat ini.
 
 Nah, pas di jaman itu kalau kita ingin membuat sebuah program kita perlu memasukkan kode 0 atau 1 secara berurutan, misalnya seperti gambar dibawah ini: 
 
 ![inigambar](/assets/images/binary_image.png)
 
-Menurut Mas Marijn^[[Marijn Haverbeke](https://marijnhaverbeke.nl/)], ini adalah program buat menambah angka dari 1 sampai 10 secara bersamaan habis itu ditampilin hasilnya. ga mudeng? begini contohnya:
+Menurut Mas [Marijn](https://marijnhaverbeke.nl/), ini adalah program buat menambah angka dari 1 sampai 10 secara bersamaan habis itu ditampilin hasilnya. ga mudeng? begini contohnya:
 
 ```
 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55

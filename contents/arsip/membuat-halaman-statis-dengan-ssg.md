@@ -5,11 +5,11 @@ date: 2024-01-25
 
 # Membuat halaman statis dengan SSG
 
-Published Date: {{ date | postDate }} { .byline }
+*Published Date: {{ date | postDate }}* { .byline }
 
-Setelah kita udah berkenalan sedikit-sedikit tentang SSG^[bisa dibaca disini ya: https://indrdmr.online/arsip/perkenalan-static-site-generator/], sesuai janjiku pada tulisanku sebelumnya, kita akan coba praktek bikin halaman statis sederhana pakai SSG, yang mana tujuanku adalah untuk memperkuat pemahaman teman-teman tentang SSG, okay let's gooo!
+Setelah kita udah berkenalan sedikit-sedikit tentang [Static Site Generator](https://indrdmr.online/arsip/perkenalan-static-site-generator/), sesuai janjiku pada tulisanku sebelumnya, kita akan coba praktek bikin halaman statis sederhana pakai SSG, yang mana tujuanku adalah untuk memperkuat pemahaman teman-teman tentang SSG, okay let's gooo!
 
-Untuk SSG yang akan kita pakai adalah 11ty^[baca: Eleventy. https://www.11ty.dev/]. tapi sebelum itu, pastikan dulu kamu sudah menginstal Node.js^[https://nodejs.org/en] dan tidak lupa untuk siapkan text editor (bisa pakai VSCode, Sublime, atau lainnya). oh ya, Browser-nya jangan lupa (bisa pakai Chrome atau Firefox).
+Untuk SSG yang akan kita pakai adalah [11ty](https://www.11ty.dev/) (baca: *Eleventy*). tapi sebelum itu, pastikan dulu kamu sudah menginstal [Node.js](https://nodejs.org/en) dan tidak lupa untuk siapkan text editor (bisa pakai VSCode, Sublime, atau lainnya). oh ya, Browser-nya jangan lupa (bisa pakai Chrome atau Firefox).
 
 Sudah siap? mari kita mulai!
 

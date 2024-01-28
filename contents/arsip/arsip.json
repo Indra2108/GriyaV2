@@ -1,4 +1,4 @@
 {
-    "layout": "notebook_content.njk",
+    "layout": "guide_content.njk",
     "tags": "arsip"
 }
